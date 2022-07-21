@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Minecraft";
+    src: url(~assets/fonts/minecraft.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Alibaba Pu Hui Ti";
+    src: url(~assets/fonts/AlibabaPuHuiTi-2-55-Regular.ttf) format("truetype");
+}
+
+
+body {
+    font-family: "Alibaba Pu Hui Ti";
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo {
+    font-family: Minecraft;
+    color: white;
+}
+
+.link {
+    color: inherit;
+    text-decoration: inherit;
+    outline: inherit;
+}
